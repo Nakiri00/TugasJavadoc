@@ -1,4 +1,4 @@
-# Tugas Javadoc - Sistem Informasi Akademik
+# Tugas Dokumentasi Menggunakan Javadoc
 
 Proyek Java sederhana ini menggunakan Javadoc untuk dokumentasi.
 
