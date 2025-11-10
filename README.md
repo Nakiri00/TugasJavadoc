@@ -22,7 +22,7 @@ Proyek Java sederhana ini menggunakan Javadoc untuk dokumentasi.
     * `-sourcepath src`: Menentukan `src` sebagai folder kode sumber.
     * `-subpackages tugas2`: Memproses paket `tugas2`.
 
-*(Catatan: Jika `javadoc` tidak dikenali, pastikan folder `bin` JDK Anda sudah ada di `PATH` environment variable).*
+*(Catatan: Jika `javadoc` tidak dikenali, pastikan folder `bin` JDK sudah ada di `PATH` environment variable).*
 
 ---
 
