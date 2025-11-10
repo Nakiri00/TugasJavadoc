@@ -28,5 +28,5 @@ Proyek Java sederhana ini menggunakan Javadoc untuk dokumentasi.
 
 ## 🖥️ Cara Melihat Dokumentasi
 
-1.  Buka folder output yang telah Anda buat (misalnya, `dist/javadoc` atau `docs`).
-2.  Buka file `index.html` di browser Anda.
+1.  Buka folder output yang telah dibuat (misalnya, `dist/javadoc` atau `docs`).
+2.  Buka file `index.html`.
